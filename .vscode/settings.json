@@ -1,0 +1,7 @@
+{
+    "prettier.requireConfig": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": false
+}
+
+\

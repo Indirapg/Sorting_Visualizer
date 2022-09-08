@@ -1,0 +1,18 @@
+.array-container {
+    position: absolute;
+    left: 100px;
+    /* top: 100px; */
+  }
+  
+  .array-bar { 
+    width: 2px; /* Made every array bar of "width: 2px"(pixels)*/ 
+    background-color: turquoise;
+    display: inline-block;
+    margin: 0 1px; /* Gave them a margin of 1px on left & 1px on right*/
+    /* so there are 2px every single bar, total 310 bars*/
+  } 
+
+
+  
+
+
